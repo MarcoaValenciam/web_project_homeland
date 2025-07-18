@@ -1,0 +1,13 @@
+.page{
+    max-width: 1280px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-items: center ;
+    align-content: center;
+    padding: 0;
+    background-color: #2A2C2F;
+    color: white;
+    align-items: center;
+    flex-wrap: wrap;
+}

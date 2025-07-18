@@ -1,0 +1,6 @@
+.image{
+  padding-top: 64px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,26 @@
+.lead{
+    padding-top: 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+}
+
+.lead__title{
+    margin: 0;
+    font-family: Inter;
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 100px;
+    text-align: center;
+    width: 56.25%;
+}
+
+.lead__subtitle{
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    width: 56.25%;
+}
