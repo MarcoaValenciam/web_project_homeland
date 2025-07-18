@@ -1,13 +1,26 @@
+/* @font-face {
+  font-family: 'Inter';
+  src: url(https://practicum-content.s3.us-west-1.amazonaws.com/frontend-developer/responsive/moved_Inter-Regular.woff);
+  font-weight: normal;
+} */
+
+
 .page{
-    max-width: 1280px;
-    margin: auto;
-    display: flex;
-    flex-direction: column;
-    justify-items: center ;
-    align-content: center;
-    padding: 0;
-    background-color: #2A2C2F;
-    color: white;
-    align-items: center;
-    flex-wrap: wrap;
+  width: 1280px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-items: center ;
+  align-content: center;
+  padding: 0;
+  background-color: #2A2C2F;
+  color: white;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+@media screen and (max-width: 320px) {
+  .page{
+    max-width: 320px;
+  }
 }
