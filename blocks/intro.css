@@ -45,25 +45,25 @@
 @media screen and (max-width: 320px) {
   .intro{
     /* max-width: 288px; */
-    max-width: 94.74%;
+    max-width: 100%;
     padding-top: 64px;
   }
 
   .intro__title{
-    width: 100%;
+    width: 94.74%;
     font-size: 32px;
     line-height: 35px;
   }
 
   .intro__quote{
-    width: 100%;
+    width: 94.74%;
     line-height: 30px;
   }
 
   .intro__author{
-    width: 100%;
+    width: 94.74%;
   }
   .intro__description{
-    width: 100%;
+    width: 94.74%;
   }
 }

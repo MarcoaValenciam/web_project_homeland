@@ -31,17 +31,19 @@
 @media screen and (max-width: 320px) {
  .lead{
     /* max-width: 288px; */
-    max-width: 94.74%;
+    max-width: 100%;
     padding-top: 50px;
     gap: 16px;
   }
 
   .lead__title{
+    width: 94.74%;
     font-size: 40px;
     line-height: 44px;
   }
 
   .lead__subtitle{
+    width: 94.74%;
     font-size: 16px;
     line-height: 20px;
   }
