@@ -17,7 +17,7 @@
   }
 
 .intro__quote{
-  padding-top: 39.98px;
+  padding-top: 40px;
   width: 75.00%;
   font-weight: 400;
   font-size: 24px;
@@ -34,14 +34,13 @@
 }
 
 .intro__description{
-  padding-top: 31.99px;
+  padding-top: 32px;
   width: 73.37%;
   font-weight: 400;
   font-size: 16px;
   line-height: 163%;
 }
 
-/* @media screen and (max-width: 320px) { */
 @media screen and (max-width: 576px) {
   .intro{
     padding-top: 64px;

@@ -16,10 +16,9 @@
   color: white;
 }
 
-/* @media screen and (max-width: 320px) { */
 @media screen and (max-width: 576px)  {
   .page{
     max-width: 320px;
-    background-color: blue;
+    background-color: green;
   }
 }
