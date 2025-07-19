@@ -10,13 +10,7 @@
 @media screen and (max-width: 320px) {
   .header{
     padding-top: 20px;
-    /* max-width: 188px; */
+    width: 58.75%;
     text-align: center;
-    max-width: 61.84%;
   }
-
-  /* .header__logo{
-    max-width: 100%; */
-    /* width: 100%;
-  } */
 }

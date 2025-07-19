@@ -34,21 +34,26 @@
 
 @media screen and (max-width: 320px) {
  .lead{
-    /* max-width: 288px; */
-    max-width: 100%;
+    width: 100%;
     padding-top: 50px;
-    gap: 16px;
   }
 
   .lead__title{
-    width: 94.74%;
+    padding-top: 50px;
+    width: 71.25%;
     font-size: 40px;
     line-height: 44px;
   }
 
   .lead__subtitle{
-    width: 94.74%;
+    padding-top: 16px;
+    width: 90.00%;
     font-size: 16px;
     line-height: 20px;
+  }
+
+  .lead__image{
+    padding-top: 40px;
+    width: 100%;
   }
 }

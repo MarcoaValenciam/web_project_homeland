@@ -43,26 +43,26 @@
 
 @media screen and (max-width: 320px) {
   .intro{
-    /* max-width: 288px; */
-    max-width: 100%;
     padding-top: 64px;
+    width: 90%;
   }
 
   .intro__title{
-    width: 94.74%;
+    padding-top: 0;
+    width: 100%;
     font-size: 32px;
     line-height: 35px;
   }
 
   .intro__quote{
-    width: 94.74%;
+    width: 100%;
     line-height: 30px;
   }
 
   .intro__author{
-    width: 94.74%;
+    width: 100%;
   }
   .intro__description{
-    width: 94.74%;
+    width: 100%;
   }
 }
