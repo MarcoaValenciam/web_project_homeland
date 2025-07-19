@@ -1,14 +1,21 @@
 .header{
     padding-top: 34px;
+    max-width: 20.39%;
+}
+
+.header__logo{
+  max-width: 100%;
 }
 
 @media screen and (max-width: 320px) {
   .header{
     padding-top: 20px;
-    max-width: 188px;
+    /* max-width: 188px; */
+    text-align: center;
   }
 
   .header__logo{
-    max-width: 100%;
+    /* max-width: 100%; */
+    max-width: 58.75%;
   }
 }

@@ -1,5 +1,5 @@
 .image{
-  max-width: 984px;
+  /* max-width: 984px; */
   padding-top: 64px;
   margin: auto;
   display: flex;
@@ -9,7 +9,7 @@
 @media screen and (max-width: 320px) {
   .image{
     /* max-width: 320px; */
-    width: 100%;
+    max-width: 100%;
     padding-top: 40px;
   }
 }
