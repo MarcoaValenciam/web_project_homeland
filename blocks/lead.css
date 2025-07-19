@@ -35,6 +35,7 @@
 @media screen and (max-width: 320px) {
  .lead{
     width: 100%;
+    margin: 0;
   }
 
   .lead__title{
