@@ -45,11 +45,12 @@
 @media screen and (max-width: 320px) {
   .intro{
     /* max-width: 288px; */
-    max-width: 90%;
+    max-width: 94.74%;
     padding-top: 64px;
   }
 
   .intro__title{
+    width: 100%;
     font-size: 32px;
     line-height: 35px;
   }
