@@ -20,7 +20,7 @@
 
 @media screen and (max-width: 320px) {
   .page{
-    /* width: 320px; */
+    width: 320px;
     background-color: blue;
   }
 }

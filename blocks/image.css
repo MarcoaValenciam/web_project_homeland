@@ -1,10 +1,20 @@
 .image{
-  padding-top: 64px;
-  width: 100%;
+  width: 76.88%;
+  justify-self: center;
 }
 
+  .image__picture{
+    padding-top: 64px;
+    width: 100%;
+  }
+
 @media screen and (max-width: 320px) {
-   .lead__image{
+   .image{
+    width: 100%;
+    justify-self: center;
+  }
+
+  .image__picture{
     padding-top: 40px;
     width: 100%;
   }
