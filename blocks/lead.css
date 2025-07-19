@@ -1,13 +1,15 @@
 .lead{
+  padding-top: 90px;
   width: 76.88%;
   margin: auto;
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding-top: 91px;
+  gap: 32px;
 }
 
 .lead__title{
-  padding-top: 90px;
   margin: 0;
   width: 73.17%;
   font-family: Inter;
@@ -18,7 +20,6 @@
 }
 
 .lead__subtitle{
-  padding-top: 32px;
   width: 73.17%;
   font-family: Inter;
   font-weight: 400;
@@ -31,17 +32,17 @@
  .lead{
     width: 100%;
     margin: 0;
+    padding-top: 50px;
+    gap: 16px;
   }
 
   .lead__title{
-    padding-top: 50px;
     width: 71.25%;
     font-size: 40px;
     line-height: 44px;
   }
 
   .lead__subtitle{
-    padding-top: 16px;
     width: 90.00%;
     font-size: 16px;
     line-height: 20px;
