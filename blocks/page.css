@@ -20,7 +20,7 @@
 @media screen and (max-width: 2000px){
 /* @media screen and (max-width: 768px){ */
   .page{
-    width: 768px;
+    max-width: 768px;
     margin: 0;
     background-color: blueviolet;
   }
