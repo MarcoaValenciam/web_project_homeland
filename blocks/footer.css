@@ -8,7 +8,7 @@
   line-height: 16px;
 }
 
-@media screen and (min-width: 768px) and (max-width: 1279px){
+@media screen and (min-width: 321px) and (max-width: 1279px){
   .footer{
     padding-top: 88px;
     font-size: 14px;
@@ -16,7 +16,7 @@
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 320px) {
   .footer{
     padding-top: 64px;
     line-height: 14px;
