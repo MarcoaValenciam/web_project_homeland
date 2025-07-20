@@ -41,7 +41,8 @@
   line-height: 163%;
 }
 
-@media screen and (max-width: 768px)  {
+@media screen and (max-width: 2000px){
+/* @media screen and (max-width: 768px){ */
   .intro{
     padding-top: 90px;
     width: 100%;
