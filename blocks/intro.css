@@ -45,32 +45,32 @@
 /* @media screen and (max-width: 768px){ */
   .intro{
     padding-top: 90px;
-    width: 100%;
+    width: 93.75%;
   }
 
   .intro__title{
     padding-top: 0;
-    width: 92.07%;
+    width: 98.20%;
     font-size: 45px;
     line-height: 49px;
   }
 
   .intro__quote{
     padding-top: 50px;
-    width: 93.76%;
+    width: 100%;
     font-size: 24px;
     line-height: 34px;
   }
 
   .intro__author{
     padding-top: 26px;
-    width: 93.76%;
+    width: 100%;
     font-size: 24px;
     line-height: 34px;
   }
   .intro__description{
     padding-top: 32px;
-    width: 93.76%;
+    width: 100 %;
     font-size: 16px;
     line-height: 163%;
   }
