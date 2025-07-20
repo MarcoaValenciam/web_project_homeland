@@ -10,6 +10,7 @@
 
 .intro__title{
   padding-top: 92px;
+  margin: 0;
   width: 84.35%;
   font-weight: 900;
   font-size: 54px;
@@ -70,7 +71,7 @@
   }
   .intro__description{
     padding-top: 32px;
-    width: 100 %;
+    width: 100%;
     font-size: 16px;
     line-height: 163%;
   }
