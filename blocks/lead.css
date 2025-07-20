@@ -34,8 +34,7 @@
   align-self: center;
 }
 
-@media screen and (min-width: 1281px) and (max-width: 2000px){
-/* @media screen and (min-width: 577px) and (max-width: 768px){ */
+@media screen and (min-width: 577px) and (max-width: 768px){
 .lead{
     width: 100%;
     margin: 0;
