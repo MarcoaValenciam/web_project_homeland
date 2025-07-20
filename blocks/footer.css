@@ -8,6 +8,14 @@
   line-height: 16px;
 }
 
+@media screen and (max-width: 768px)  {
+  .footer{
+    padding-top: 88px;
+    font-size: 14px;
+    line-height: 16px;
+  }
+}
+
 @media screen and (max-width: 576px) {
   .footer{
     padding-top: 64px;

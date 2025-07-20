@@ -34,12 +34,38 @@
   align-self: center;
 }
 
+@media screen and (max-width: 768px)  {
+.lead{
+    width: 100%;
+    margin: 0;
+    padding-top: 90px;
+  }
+
+  .lead__title{
+    width: 69.02%;
+    font-size: 75px;
+    line-height: 79px;
+  }
+
+  .lead__subtitle{
+    padding-top: 25px;
+    width: 93.75%;
+    font-size: 30px;
+    line-height: 36px;
+  }
+
+    .lead__image{
+    padding-top: 30px;
+    width: 100%;
+    justify-self: center;
+  }
+}
+
 @media screen and (max-width: 576px) {
  .lead{
     width: 100%;
     margin: 0;
     padding-top: 50px;
-    gap: 16px;
   }
 
   .lead__title{
