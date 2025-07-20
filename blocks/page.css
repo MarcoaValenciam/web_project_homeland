@@ -11,7 +11,8 @@
   flex-direction: column;
   justify-items: center ;
   align-items: center;
-  align-self: center;
+  /* align-self: center; */
+  justify-self: center;
   padding: 0;
   background-color: #2A2C2F;
   color: white;
