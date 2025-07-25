@@ -1,0 +1,34 @@
+.photo-grid{
+  padding-top: 118px;
+  margin: auto;
+  width: 92.50%;
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.photo-grid__item{
+  width: 23.98%;
+}
+
+@media screen and (min-width: 321px) and (max-width: 1279px){
+  .photo-grid{
+    padding-top: 64px;
+    width: 93.75%;
+  }
+
+  .photo-grid__item{
+    width: 48.89%;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .photo-grid{
+    padding-top: 38px;
+    width: 90%;
+  }
+
+  .photo-grid__item{
+    width: 100%;
+  }
+}

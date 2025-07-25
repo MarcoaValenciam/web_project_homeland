@@ -4,7 +4,7 @@ Nombre del proyecto: Galería de Arte Tripleten - Homeland
 
 Funcionalidad: Se creo una pagina web con diseño adaptativo, de manera que su contenido se pueda adaptar a la pantalla del dispositivo donde sea visualizada.
 
-Tecnologías utilizadas: Metodológía BEM, metodología FlexBox, Figma, Importación de Fuentes, HTML y CSS.
+Tecnologías utilizadas: Metodológía BEM, metodología FlexBox, Media Queries, Figma, Importación de Fuentes, HTML y CSS.
 
 Planes de mejora del proyecto: 
 
