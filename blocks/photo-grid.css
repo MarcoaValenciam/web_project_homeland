@@ -17,13 +17,12 @@
 @media screen and (min-width: 321px) and (max-width: 1279px){
   .photo-grid{
     padding-top: 64px;
-    margin: 0;
     width: 93.75%;
     gap: 2.22%;
   }
 
   .photo-grid__item{
-    width: 48.88%;
+    width: 48.89%;
   }
 }
 
