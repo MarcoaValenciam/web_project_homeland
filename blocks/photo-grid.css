@@ -16,7 +16,7 @@
     width: 93.75%;
     padding-top: 64px;
     display: flex;
-    gap: 2.25%;
+    justify-content: flex-start;
   }
 
   .photo-grid__item{
