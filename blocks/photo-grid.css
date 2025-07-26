@@ -17,8 +17,8 @@
     padding-top: 64px;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-    row-gap: 16px;
+    justify-content: flex-start;
+    gap: 16px;
   }
 
   .photo-grid__item{
