@@ -16,6 +16,7 @@
     width: 93.75%;
     padding-top: 64px;
     display: flex;
+    flex-direction: row;
     justify-content: flex-start;
   }
 
