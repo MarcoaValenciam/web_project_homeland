@@ -19,13 +19,11 @@
     width: 93.75%;
     padding-top: 64px;
     display: flex;
-    /*
-    gap: 5%;
   }
 
   .photo-grid__item{
     width: 48.89%;
-  } */
+  }
 }
 
 @media screen and (max-width: 320px) {
