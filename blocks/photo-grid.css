@@ -43,6 +43,13 @@
     grid-template-columns: repeat(1, 1fr);
     grid-template-rows: repeat(8, 1fr);
     grid-template-areas:
+    "item"
+    "item"
+    "item"
+    "item"
+    "item"
+    "item"
+    "item"
     "item";
     gap: 16px;
   }
