@@ -18,6 +18,7 @@
   .photo-grid{
     padding-top: 64px;
     width: 93.75%;
+    gap: 5%;
   }
 
   .photo-grid__item{
