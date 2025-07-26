@@ -21,12 +21,14 @@
 
 @media screen and (min-width: 321px) and (max-width: 1279px){
   .page{
+    max-width: 768px;
     margin: 0;
   }
 }
 
 @media screen and (max-width: 320px) {
   .page{
+    max-width: 320px;
     margin: 0;
   }
 }

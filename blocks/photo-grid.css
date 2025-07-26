@@ -39,9 +39,15 @@
   .photo-grid{
     padding-top: 38px;
     width: 90%;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(8, 1fr);
+    grid-template-areas:
+    "item";
+    gap: 16px;
   }
 
-  .photo-grid__item{
+  /* .photo-grid__item{
     width: 100%;
-  }
-} */
+  } */
+}
