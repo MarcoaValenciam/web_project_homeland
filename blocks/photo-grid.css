@@ -18,11 +18,11 @@
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
-    row-gap: 1.45%;
   }
 
   .photo-grid__item{
     width: 48.87%;
+    padding-bottom: 16px;
   }
 }
 
