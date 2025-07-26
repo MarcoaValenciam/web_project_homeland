@@ -3,6 +3,7 @@
   margin: auto;
   width: 92.50%;
   display: flex;
+  justify-items: flex-start;
   gap: 16px;
   flex-wrap: wrap;
 }
@@ -15,13 +16,10 @@
   .photo-grid{
     padding-top: 64px;
     width: 93.75%;
-    /* display: flex;
-    gap: 16px;
-    flex-wrap: wrap; */
 }
 
   .photo-grid__item{
-    width: 48.00%;
+    width: 48.89%;
   }
 }
 
