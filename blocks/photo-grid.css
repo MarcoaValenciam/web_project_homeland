@@ -15,13 +15,13 @@
   .photo-grid{
     padding-top: 64px;
     width: 93.75%;
-    display: flex;
+    /* display: flex;
     gap: 16px;
-    flex-wrap: wrap;
+    flex-wrap: wrap; */
 }
 
   .photo-grid__item{
-    width: 48.87%;
+    width: 48.86%;
   }
 }
 
