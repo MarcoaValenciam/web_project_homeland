@@ -18,15 +18,16 @@
 @media screen and (min-width: 577px) and (max-width: 1279px){
 /* @media screen and (min-width: 321px) and (max-width: 1279px){ */
   .photo-grid{
+    background-color: blueviolet;
     width: 93.75%;
     padding-top: 64px;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(4, 1fr);
     grid-template-areas:
+    /* "item item"
     "item item"
-    "item item"
-    "item item"
+    "item item" */
     "item item";
     gap: 16px;
   }
@@ -36,22 +37,23 @@
   }
 }
 
-@media screen and (max-width: 576px) {
 /* @media screen and (max-width: 320px) { */
+@media screen and (max-width: 576px) {
   .photo-grid{
+    background-color: green;
     padding-top: 38px;
     width: 90%;
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     grid-template-rows: repeat(8, 1fr);
     grid-template-areas:
+    /* "item"
     "item"
     "item"
     "item"
     "item"
     "item"
-    "item"
-    "item"
+    "item" */
     "item";
     gap: 16px;
   }
