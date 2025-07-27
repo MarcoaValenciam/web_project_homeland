@@ -1,0 +1,11 @@
+.places{
+  padding-top: 92px;
+  width: 77.11%;
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+}
+
+.place{
+  width: 100%;
+}
