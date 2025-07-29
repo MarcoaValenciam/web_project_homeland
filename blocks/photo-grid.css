@@ -12,8 +12,7 @@
   width: 100%;
 }
 
-@media screen and (min-width: 577px) and (max-width: 1279px){
-/* @media screen and (min-width: 321px) and (max-width: 1279px){ */
+@media screen and (min-width: 321px) and (max-width: 1279px){
   .photo-grid{
     width: 93.75%;
     padding-top: 64px;
@@ -28,8 +27,7 @@
   }
 }
 
-/* @media screen and (max-width: 320px) { */
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 320px) {
   .photo-grid{
     padding-top: 38px;
     width: 90%;

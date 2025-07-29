@@ -23,7 +23,7 @@ h2, p{
   grid-template-areas:
   "title artists"
   "image description"
-  "frame description"
+  "sale description"
   ". description"
 }
 
@@ -65,7 +65,7 @@ h2, p{
   box-shadow: 10px 10px 25px 0px #00000080;
 }
 
-.place__images_frame{
+.place__button-sale{
   width: fit-content;
   height: fit-content;
   font-weight: 600;
@@ -87,8 +87,7 @@ h2, p{
 }
 
 
-@media screen and (min-width: 577px) and (max-width: 1279px){
-/* @media screen and (min-width: 321px) and (max-width: 1279px){ */
+@media screen and (min-width: 321px) and (max-width: 1279px){
   .places{
     padding-top: 88px;
     width: 93.75%;
@@ -103,7 +102,7 @@ h2, p{
   .place__title{
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
+    justify-content: ;
     font-size: 42px;
     line-height: 46px;
   }
@@ -114,8 +113,7 @@ h2, p{
 
 }
 
-/* @media screen and (max-width: 320px) { */
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 320px) {
   .places{
     padding-top: 62px;
     width: 100%;
@@ -133,7 +131,7 @@ h2, p{
     "artists"
     "image"
     "description"
-    "frame"
+    "sale"
   }
 
   .place__title{
@@ -160,8 +158,8 @@ h2, p{
     line-height: 163%;
   }
 
-  .place__images_frame{
-    grid-area: frame;
+  .place__button-sale{
+    grid-area: sale;
     width: 68.89%;
     justify-self: center;
     font-size: 14px;

@@ -1,5 +1,4 @@
 .page{
-  /* width: 1280px; */
   margin: auto;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -19,20 +18,14 @@
   color: white;
 }
 
-@media screen and (min-width: 577px) and (max-width: 1279px){
-/* @media screen and (min-width: 321px) and (max-width: 1279px){ */
+@media screen and (min-width: 321px) and (max-width: 1279px){
   .page{
-    /* width: 768px; */
-    background-color: blueviolet;
     margin: 0;
   }
 }
 
-@media screen and (max-width: 576px) {
-/* @media screen and (max-width: 320px) { */
+@media screen and (max-width: 320px) {
   .page{
-    /* width: 320px; */
-    background-color: green;
     margin: 0;
   }
 }
