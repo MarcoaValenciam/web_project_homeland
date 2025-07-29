@@ -12,6 +12,15 @@
   font-display: swap;
   src: url("../vendor/fonts/Inter-Medium.woff2") format("woff2");
 }
+
+
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../vendor/fonts/Inter-SemiBold.woff2") format("woff2");
+}
 @font-face {
   font-family: "Inter";
   font-style: normal;
