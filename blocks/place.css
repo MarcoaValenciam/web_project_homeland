@@ -103,6 +103,7 @@ h2, p{
     justify-content: flex-end;
     font-size: 42px;
     line-height: 46px;
+    overflow-wrap:break-word;
   }
 
   .place__description{
