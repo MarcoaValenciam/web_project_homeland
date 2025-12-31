@@ -20,7 +20,7 @@ Tecnologías utilizadas: HTML5, CSS3, JavaScript ES6+, CSS Grid, Flexbox, Respon
 
 Desarrollador: Marco Antonio Valencia Mijangos
 
-Julio, 2025.
+Junio, 2025.
 
 URL: https://marcoavalenciam.github.io/web_project_homeland/
 
