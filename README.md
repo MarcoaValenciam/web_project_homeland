@@ -16,7 +16,7 @@ Aprendizajes clave:
 - Dominio avanzado de CSS Grid para layouts complejos de tarjetas de propiedades
 - Mejores prácticas de UX/UI para plataformas de contenido visual
 
-Tecnologías utilizadas: HTML5, CSS3, JavaScript ES6+, CSS Grid, Flexbox, Responsive Design
+Tecnologías utilizadas: HTML5, CSS3, CSS Grid, Flexbox, Responsive Design
 
 Desarrollador: Marco Antonio Valencia Mijangos
 
